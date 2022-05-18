@@ -1,0 +1,7 @@
+git remote add origin https://github.com/...
+
+git remore -v
+
+git status
+
+git add *

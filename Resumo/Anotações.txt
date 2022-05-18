@@ -1,0 +1,7 @@
+git add . ou git add -a adicionar arquivos criados manualmente]
+
+git commit -m “Inclusão das anotações do curso de Git/Github”
+
+git push origin master
+
+git push origin main

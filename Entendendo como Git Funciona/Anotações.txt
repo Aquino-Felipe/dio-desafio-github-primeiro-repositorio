@@ -1,0 +1,13 @@
+# **SHA1**
+
+- Secure Hash Algorithm  (A encriptação gera um conjunto de caracteres idenficador de 40 dígitos.)
+
+
+# OBJETOS INTERNOS  DO GIT
+
+- BLOBS
+- TREES
+- COMMITS
+
+- Tipo do objeto e conteudo desse arquivo.
+- Contem metadados do objeto.

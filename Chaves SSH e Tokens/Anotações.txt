@@ -1,0 +1,17 @@
+cs /c/Users/Felipe/ .ssh/
+
+cd /c/Users/Felipe/.ssh/
+
+ls
+
+cat id_ed25519.pub
+
+ls
+
+pwd
+/c/Users/Felipe/.ssh
+
+eval $(ssh-agent -s)
+agent pid 1671
+
+ssh-add id_ed25519

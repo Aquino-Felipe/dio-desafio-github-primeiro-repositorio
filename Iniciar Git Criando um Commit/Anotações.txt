@@ -1,0 +1,64 @@
+-GIT INIT
+
+-GIT ADD
+
+-GIT COMMIT
+
+
+bash here dentro da pasta c
+
+ls
+
+cd workspace/
+
+crtl+l = limpar
+
+mkdir livro-receitas enter
+
+ls
+
+Git init cria um repositório dentro daquela pasta
+
+mkdir livro-receitas
+
+ls
+
+cd livro-receitas/
+
+git init
+
+ls
+
+ls -a
+
+cd .git/
+
+ls
+
+cd..
+
+
+git config --global user.email "e-mail.com"
+
+git config --global user.name Aquino-Felipe
+
+
+Git add * 
+
+git commit -m "commit inicial"
+
+Git status
+
+Git add salada.md receitas/
+
+Git status
+
+Git commit -m "cria pasta receitas, move arquivo para receitas"
+
+Git status
+
+Ls
+
+echo > README.md
+
+ls
